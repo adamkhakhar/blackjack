@@ -13,3 +13,6 @@ were used to represent the deck of cards.
     -Future developments can include creating a user interface with 
 graphics, implementing suits for each card, providing the double
 down feature, and betting.
+    -Extensive testing and all case consideration can be implemented
+    for each function in the program; however, for such a simple
+    program, I chose to test informally via the I/0.
