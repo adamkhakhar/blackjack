@@ -37,7 +37,7 @@ def shuffle_deck(deck):
 
 #deal cards
 def deal_cards():
-    for i in range(0, 2):
+    for _ in range(0, 2):
         player.append(cards.pop())
         dealer.append(cards.pop())
     
